@@ -2,7 +2,6 @@
 @import url(styles/perfil.css);
 
 :root {
-    font-family: sans-serif;;
     --fundo-card: #1B2226;
     --preto: #000;
     --branco: #fff;
@@ -13,16 +12,11 @@
 
 body {
     background-color: white;
-    font-family: var(--fonte-principal);
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
-    font-weight: 400;
 }
 
-a {
-display: flex;
-justify-content: center;
-align-items: center
-}
+
 
 
 
