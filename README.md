@@ -12,7 +12,7 @@ Essa seção contém a imagem de capa, a foto de perfil, nome, título, informa�
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/02d995fe-ceb0-430b-a499-45a71d60941b)
 <h4>Obs: nessa imagem de perfil usei da propriedade position (absolute / relative) para sobrepor e definir o ponto de referência para movimentação.
   
-<h3>⬛ Day 2 - Navbar --- em construção
+<h3>⬛ Day 2 - Navbar
 O seu navbar contém dois blocos de elementos. No lado esquerdo, a imagem com a logo do LinkedIn e uma barra de pesquisa. No lado direito, um conjunto de links levando para outras áreas da rede social, sendo eles: Início, Minha rede, Vagas, Mensagens, Notificações, e Soluções.
   
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/e733bb89-fea9-478e-95f7-8113058b2422)
