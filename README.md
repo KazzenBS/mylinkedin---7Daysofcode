@@ -6,8 +6,8 @@
 
 <h3><a href="https://www.figma.com/file/YNrQbgrdCBM7tDd6CfpBmm/7days---HTML-e-CSS-(Linkedin)?type=design&node-id=0%3A1&mode=dev">Figma completo do projeto</a>
 
-<h3>✅ Day 1 - sessão de perfil
-Essa seção contém a imagem de capa, a foto de perfil, nome, título, informações de contato, informações da carreira e, no final da seção, botões de ação. 
+<h3>✅ Day 1 - sessão de perfil ---
+<p>Essa seção contém a imagem de capa, a foto de perfil, nome, título, informações de contato, informações da carreira e, no final da seção, botões de ação. 
   
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/02d995fe-ceb0-430b-a499-45a71d60941b)
 <h4>Obs: nessa imagem de perfil usei da propriedade position (absolute / relative) para sobrepor e definir o ponto de referência para movimentação.
