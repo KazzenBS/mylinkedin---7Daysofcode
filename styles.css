@@ -6,16 +6,23 @@
     --preto: #000;
     --branco: #fff;
     --main-blue: #70B5F9;
-    
-
+    --cinza-secundario: #38434F;
+    width: 1440px;
+    height: 2139px;
 }
 
 body {
     background-color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
+    background-color: var(--preto);
 }
 
+
+.perfil {
+    margin-left: 154px;
+    margin-top: 76px;
+}
 
 
 
