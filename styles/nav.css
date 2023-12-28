@@ -1,0 +1,71 @@
+
+.cabecalho {
+    height: 52px;
+    background: var(--fundo-card);
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.container__logo {
+  background-image: url('../assets/logo-linkedin.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 34px;
+  height: 34px;
+  margin-top: 9px;
+}
+
+.container__pesquisa{
+    border-radius: 4px;
+    width: 20%;
+    height: 34px;
+    background-color: var(--cinza-secundario);
+    position: absolute;
+    margin: 9px 0 0 8px;    
+}
+
+.container__pesquisa::placeholder {
+    color: var(--branco);
+    background: url("../assets/icone-busca.svg") no-repeat;
+    background-position: 5px;
+    padding-left: 2em;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-weight: 400;
+    color: var(--branco);
+}
+
+.container2__menu-link {
+    text-decoration: none;
+    color: var(--branco);
+}
+
+.container2__menu-botao {
+  height: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;   
+}
+
+
+.container2__menu-botao:last-child {
+  margin-left: .2rem;
+  border-left: 1px solid var(--branco);
+}
+
+.container2__menu-link h2{
+    text-align: center;
+    width: 80px;
+    font-size: .8rem;
+}
+
+.container2__menu-link a{
+    color: var(--main-blue);
+}

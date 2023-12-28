@@ -1,5 +1,6 @@
-@import url(styles/header.css);
+@import url(styles/nav.css);
 @import url(styles/perfil.css);
+@import url(styles/destaque.css);
 
 :root {
     --fundo-card: #1B2226;
@@ -12,19 +13,17 @@
 }
 
 body {
-    background-color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     background-color: var(--preto);
 }
 
 
-.perfil {
-    margin-left: 154px;
-    margin-top: 76px;
+.principal {
+    padding: 1vw 10vw 1vw 17vw;
 }
 
-
-
-
-
+h2 {
+    color: var(--branco);
+    font-weight: 700;
+}
