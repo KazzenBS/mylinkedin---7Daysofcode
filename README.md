@@ -12,12 +12,16 @@
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/02d995fe-ceb0-430b-a499-45a71d60941b)
 <h4>Obs: nessa imagem de perfil usei da propriedade position (absolute / relative) para sobrepor e definir o ponto de referência para movimentação.
   
-<h3>⬛ Day 2 - Navbar ---
-<p>O seu navbar contém dois blocos de elementos. No lado esquerdo, a imagem com a logo do LinkedIn e uma barra de pesquisa. No lado direito, um conjunto de links levando para outras áreas da rede social, sendo eles: Início, Minha rede, Vagas, Mensagens, Notificações, e Soluções.
+<h3>✅✅ Day 2 - Navbar ---
+<p>O navbar contém dois blocos de elementos. No lado esquerdo, a imagem com a logo do LinkedIn e uma barra de pesquisa. No lado direito, um conjunto de links levando para outras áreas da rede social, sendo eles: Início, Minha rede, Vagas, Mensagens, Notificações, e Soluções.
   
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/e733bb89-fea9-478e-95f7-8113058b2422)
 
-<h3>⬛ Day 3 - ?????
+<h3>⬛ Day 3 - Publicações em Destaque
+<p>O objetivo consiste em mostrar três cards que representam os resumos de algumas publicações, contendo: imagem da publicação, legenda, quantidade de reações e de comentários.
+
+![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/59e33327-0caf-45d3-8222-13d02c1f382b)
+
   
 <h3>⬛ Day 4 - ?????
   
