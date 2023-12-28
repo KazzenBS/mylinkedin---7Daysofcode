@@ -17,13 +17,20 @@
   
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/e733bb89-fea9-478e-95f7-8113058b2422)
 
-<h3>⬛ Day 3 - Publicações em Destaque
+<h3> ✅✅✅ Day 3 - Publicações em Destaque
 <p>O objetivo consiste em mostrar três cards que representam os resumos de algumas publicações, contendo: imagem da publicação, legenda, quantidade de reações e de comentários.
 
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/59e33327-0caf-45d3-8222-13d02c1f382b)
 
   
-<h3>⬛ Day 4 - ?????
+<h3>⬛ Day 4 - implementar duas partes da tela : a seção de “Atividades recentes” e a seção “Sobre”
+<p> eção de “Atividades recentes” é muito parecida com o que você já fez na seção “Publicações em Destaque”. A diferença é que a imagem é exibida em escala menor e alinhada ao lado esquerdo; a descrição da publicação ocupa mais espaço do que antes; e a parte inferior da seção possui um link para visualizar mais atividades (redireciona para a própria página).
+
+![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/415c09d8-b73d-4fb4-a047-d71abe8f747c)
+  
+<p>“Sobre” é bem mais simples em questão de estrutura e estilização. Apenas um título e um parágrafo de texto justificado.
+
+![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/7034dd2a-1e60-489f-9b3a-d763d9a82d90)
   
 <h3>⬛ Day 5 - ?????
   
