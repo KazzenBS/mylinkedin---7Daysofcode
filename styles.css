@@ -1,6 +1,8 @@
 @import url(styles/nav.css);
 @import url(styles/perfil.css);
 @import url(styles/destaque.css);
+@import url(styles/atividades.css);
+@import url(styles/sobre.css);
 
 :root {
     --fundo-card: #1B2226;

@@ -1,0 +1,25 @@
+.sobre {
+    background-color: var(--fundo-card);
+    width: 780px;
+    height: 371x;
+    border-radius: 16px;
+    margin-top: 8px;
+  
+}
+
+.sobre-titulo {
+    padding: 1em 0 0.2em 1em;
+}
+
+.sobre-titulo h1{
+    color: var(--branco);
+    font-size: 1.5em;
+}
+
+.sobre__publicacao {
+    width: 734px; 
+    height: 134px;
+    display: flex;
+    padding-left: 1em;
+    text-align: justify;       
+}

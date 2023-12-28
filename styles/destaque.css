@@ -8,6 +8,8 @@
 
 .destaque-titulo {
     padding: 1em;
+    font-size: 1.5em;
+    color: var(--branco);
 }
 
 .destaque__publicacoes{

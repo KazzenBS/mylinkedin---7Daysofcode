@@ -1,0 +1,95 @@
+.atividades {
+    background-color: var(--fundo-card);
+    width: 780px;
+    height: 371x;
+    border-radius: 16px;
+    margin-top: 8px;
+    
+}
+
+.atividades-titulo {
+    padding: 1em 0 0.2em 1em;
+    font-size: 1.5em;
+    color: var(--branco);
+}
+
+.atividades-titulo h1{
+    margin-bottom: 0.1em;
+    
+}
+
+
+.atividades-titulo a{
+    margin: 0;
+    
+}
+
+.atividades-autor {
+    display: flex;
+    align-items: center;
+    margin: 0.2em 0em 0.2em 1em;
+}
+
+.atividades-autor img{
+    margin: 0em 0.5em 0 1em
+}
+
+
+.atividades-autor p{
+    color: var(--cinza-secundario);
+    font-size: 0.8em;
+    font-weight: 600;
+}
+
+.atividades__publicacao-1, .atividades__publicacao-2 {
+    width: 734px; 
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1em;
+    text-align: justify;       
+}
+
+.separação1 {
+    width: 734px;
+    border-bottom: 1px solid #ffffff99;
+    margin: 1em 0 1em 1em;
+}
+
+.separação2 {
+    width: 780px;
+    border-bottom: 1px solid #ffffff99;
+    margin: 1em 0 1em 0em;
+}
+
+
+.atividade1-reacao img, .atividade2-reacao img {
+    width: 32px;
+    height: 16px;
+}
+
+.atividade1-dados, .atividade2-dados{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.2em 1.5em 1em 1.5em;
+}
+
+.atividade1-dados li, .atividade2-dados li{
+    color: var(--cinza-secundario);
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.atividade1-comentarios, .atividade2-comentarios{
+    padding-top: 0.5em;
+}
+
+.atividades__exibirmais{
+    width: 780px;
+    text-align: center;
+    padding: 0.5em 0 0.5em 0;
+    color: var(--cinza-secundario);
+    font-size: 1em;
+    font-weight: 600;
+}
