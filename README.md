@@ -23,7 +23,7 @@
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/59e33327-0caf-45d3-8222-13d02c1f382b)
 
   
-<h3>⬛ Day 4 - implementar duas partes da tela : a seção de “Atividades recentes” e a seção “Sobre”
+<h3> ✅✅✅✅ Day 4 - implementar duas partes da tela : a seção de “Atividades recentes” e a seção “Sobre”
 <p> eção de “Atividades recentes” é muito parecida com o que você já fez na seção “Publicações em Destaque”. A diferença é que a imagem é exibida em escala menor e alinhada ao lado esquerdo; a descrição da publicação ocupa mais espaço do que antes; e a parte inferior da seção possui um link para visualizar mais atividades (redireciona para a própria página).
 
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/415c09d8-b73d-4fb4-a047-d71abe8f747c)
