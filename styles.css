@@ -3,6 +3,7 @@
 @import url(styles/destaque.css);
 @import url(styles/atividades.css);
 @import url(styles/sobre.css);
+@import url(styles/experiencias.css);
 
 :root {
     --fundo-card: #1B2226;

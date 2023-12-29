@@ -1,0 +1,76 @@
+.experiencias {
+    background-color: var(--fundo-card);
+    width: 780px;
+    height: 358px;
+    border-radius: 16px;
+    margin-top: 30px;
+  
+}
+
+.experiencias-titulo {
+    padding: 1em 0 0.2em 1em;
+}
+
+.experiencias-1-titulo p{
+    color: var(--cinza-secundario);
+    font-weight: 600;
+}
+
+.experiencias-titulo h1{
+    color: var(--branco);
+    font-size: 1.5em;
+    margin-left: 0.6em;
+}
+
+.experiencias-1-titulo {
+    display: flex;
+    padding-left: 1em;
+    text-align: justify; 
+    padding: 1em 0 0.2em 1em;
+
+}
+
+.experiencias-1-titulo, .experiencias-1, .experiencias-2, .experiencias-3 {
+    margin-top: 0.5em;
+}
+
+.experiencias-1-titulo ul, .experiencias-1 ul, .experiencias-2 ul, .experiencias-3 ul   {
+    margin-left: 0.5em;
+}
+
+
+.experiencias-1, .experiencias-2, .experiencias-3 {
+    width: 734px; 
+    height: 64px;
+    display: flex;
+    padding-left: 1em;
+    text-align: justify;   
+    align-items: center;  
+}
+
+
+
+.experiencias-1 h2, .experiencias-2 h2, .experiencias-3 h2{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.experiencias-1 img, .experiencias-2 img, .experiencias-3 img {
+    width: 9px;
+    height: 55px;
+    margin: 4px 19px 9px 20px;
+    padding-top: 5px;
+
+}
+
+.experiencias-1-tempo, .experiencias-2-tempo, .experiencias-3-tempo{
+    color: var(--branco);
+    font-weight: 400;
+}
+
+.experiencias-1-dados, .experiencias-2-dados, .experiencias-3-dados {
+    color: var(--cinza-secundario);
+    font-weight: 600;
+    font-size: 14px;
+}

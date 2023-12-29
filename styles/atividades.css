@@ -50,6 +50,10 @@
     text-align: justify;       
 }
 
+.atividades__publicacao-1 img, .atividades__publicacao-2 img{
+    margin-right: 0.5em;
+}
+
 .separação1 {
     width: 734px;
     border-bottom: 1px solid #ffffff99;
