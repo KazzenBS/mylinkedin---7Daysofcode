@@ -3,7 +3,7 @@
     width: 780px;
     height: 358px;
     border-radius: 16px;
-    margin-top: 30px;
+    margin-top: 0.8em;
   
 }
 
@@ -18,7 +18,7 @@
 
 .experiencias-titulo h1{
     color: var(--branco);
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin-left: 0.6em;
 }
 
@@ -46,6 +46,8 @@
     padding-left: 1em;
     text-align: justify;   
     align-items: center;  
+    padding-top: 0.3em;
+
 }
 
 
@@ -54,6 +56,8 @@
     font-size: 16px;
     font-style: normal;
     font-weight: 600;
+    margin-top: 0.3em;
+
 }
 
 .experiencias-1 img, .experiencias-2 img, .experiencias-3 img {
@@ -67,10 +71,14 @@
 .experiencias-1-tempo, .experiencias-2-tempo, .experiencias-3-tempo{
     color: var(--branco);
     font-weight: 400;
+    margin-top: 0.3em;
+
 }
 
 .experiencias-1-dados, .experiencias-2-dados, .experiencias-3-dados {
     color: var(--cinza-secundario);
     font-weight: 600;
     font-size: 14px;
+    margin-top: 0.3em;
+
 }

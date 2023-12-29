@@ -1,0 +1,63 @@
+.formacao {
+    background-color: var(--fundo-card);
+    width: 780px;
+    height: 127px;
+    border-radius: 16px;
+    margin-top: 0.8em;
+  
+}
+
+.formacao-titulo {
+    padding: 1em 0 0.2em 1em;
+}
+
+.formacao-titulo h1{
+    color: var(--branco);
+    font-size: 1.2em;
+    margin-left: 0.6em;
+}
+
+.formacao-1 {
+    margin-top: 0.5em;
+}
+
+.formacao-1 ul   {
+    margin-left: 0.5em;
+}
+
+.formacao-1 {
+    width: 734px; 
+    height: 64px;
+    display: flex;
+    padding-left: 1em;
+    text-align: justify;   
+    align-items: center;  
+}
+
+.formacao-1 h2{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.formacao-1 img {
+    width: 48px;
+    height: 48px;
+    margin: 4px 8px 9px 1px;
+    padding-top: 5px;
+
+}
+
+.formacao-1-curso {
+    color: var(--branco);
+    font-weight: 400;
+    margin-top: 0.3em;
+}
+
+.formacao-1-duracao {
+    color: var(--cinza-secundario);
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 0.3em;
+
+}

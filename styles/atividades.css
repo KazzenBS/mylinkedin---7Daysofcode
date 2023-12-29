@@ -3,13 +3,13 @@
     width: 780px;
     height: 371x;
     border-radius: 16px;
-    margin-top: 8px;
+    margin-top: 0.8em;
     
 }
 
 .atividades-titulo {
     padding: 1em 0 0.2em 1em;
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: var(--branco);
 }
 

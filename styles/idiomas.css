@@ -1,0 +1,44 @@
+.idiomas {
+    background-color: var(--fundo-card);
+    width: 780px;
+    height: 178px;
+    border-radius: 16px;
+    margin-top: 0.8em;
+  
+}
+
+.idiomas-titulo {
+    padding: 1em 0 0.2em 0.5em;
+}
+
+.idiomas-titulo h1{
+    color: var(--branco);
+    font-size: 1.2em;
+    margin-left: 0.8em;
+}
+
+.idioma-1, .idioma-2{
+    margin-top: 0.5em;
+}
+
+.idioma-1, .idioma-2 {
+    width: 734px; 
+    height: 64px;
+    display: flex;
+    padding-left: 1em;
+    text-align: justify;   
+    align-items: center;  
+}
+
+.idioma-nivel {
+    color: var(--cinza-secundario);
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 0.3em;
+}
+
+.idioma-separacao {
+    width: 720px;
+    border-bottom: 1px solid #ffffff99;
+    margin-left: 1em;
+}
