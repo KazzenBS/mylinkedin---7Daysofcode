@@ -24,7 +24,7 @@
 
   
 <h3> ✅✅✅✅ Day 4 - implementar duas partes da tela : a seção de “Atividades recentes” e a seção “Sobre”
-<p> eção de “Atividades recentes” é muito parecida com o que você já fez na seção “Publicações em Destaque”. A diferença é que a imagem é exibida em escala menor e alinhada ao lado esquerdo; a descrição da publicação ocupa mais espaço do que antes; e a parte inferior da seção possui um link para visualizar mais atividades (redireciona para a própria página).
+<p> Seção de “Atividades recentes” é muito parecida com o que você já fez na seção “Publicações em Destaque”. A diferença é que a imagem é exibida em escala menor e alinhada ao lado esquerdo; a descrição da publicação ocupa mais espaço do que antes; e a parte inferior da seção possui um link para visualizar mais atividades (redireciona para a própria página).
 
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/415c09d8-b73d-4fb4-a047-d71abe8f747c)
   
@@ -32,9 +32,14 @@
 
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/7034dd2a-1e60-489f-9b3a-d763d9a82d90)
   
-<h3>⬛ Day 5 - ?????
+<h3>✅✅✅✅✅ Day 5 - Seção Experiências
+<p>Lista de experiências, exibindo o nome da empresa, tempo total de serviço na empresa, cargos, tipo de cargo, duração, e por fim, o local da mesma.</p>  
+![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/4d6fdc86-1780-4634-a4bc-20d3f75328d3)
   
-<h3>⬛ Day 6 - ?????
+<h3> ✅✅✅✅✅✅ Day 6 -  Seções Formação acadêmica e Idiomas
+<p>As duas seções que estão faltando na réplica são “Formação acadêmica” e “Idiomas”. Então, a tarefa de hoje foi basicamente codificar cada uma delas.</p>
+![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/253132d7-ff6c-4d30-a143-a7e1f99e7f9e)
+
   
 <h3>⬛ Day 7 - ?????
 
