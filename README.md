@@ -41,6 +41,9 @@
 ![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/253132d7-ff6c-4d30-a143-a7e1f99e7f9e)
 
   
-<h3>⬛ Day 7 - ?????
+<h3>✅✅✅✅✅✅✅ Day 7 - Seção de Sugestões
+<p>As duas são realmente muito similares, se diferenciando apenas no título e no texto dos botões.Uma delas possui o título “As pessoas também viram” e os botões possuem o texto “Enviar mensagem”</p>
+
+![image](https://github.com/KazzenBS/mylinkedin/assets/150951409/4afa8d09-d53f-4e03-a3c0-8acf0691cbe4) 
 
 
