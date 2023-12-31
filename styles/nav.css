@@ -4,15 +4,19 @@
     background: var(--fundo-card);
     display: flex;
     justify-content: space-around;
-    
+    margin: auto;
+    position:fixed;
+    top: 0;
+    z-index: 2;
+
 }
 
 .container {
-    padding-right: 18em;
+    padding-left: 1em;
 }
 
 .container2 {
-    padding-left: 16em;
+    padding-left: 22em;
 }
 
 

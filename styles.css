@@ -14,14 +14,13 @@
     --branco: #fff;
     --main-blue: #70B5F9;
     --cinza-secundario: #38434F;
-    width: 1343px;
-    height: 2139px;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     background-color: var(--preto);
+    
 }
 
 
@@ -37,6 +36,6 @@ h2 {
 .paginacao {
     display: flex;
     width: 100%;
-    height: 2139px;
+    margin-top: 3em;
 }
 
