@@ -4,7 +4,27 @@
 
 <h3>Objetivo: Criar um  site estático, semelhante ao Linkedin a partir de conceitos de html5 e css. As etapas de criação são entregues diariamente, ao longo de sete dias pela <a href="https://gist.github.com/natalia-fs">Natália F. Dev</a>, Desenvolvedora Front-end e Alura Star.
 
+## 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **7DaysOfCode - HTML e CSS (MyLinkedin)**
+| :label: Tecnologias | HTML, CSS
+| :rocket: URL         | https://kazzenbs.github.io/mylinkedin---7Daysofcode/
+| :fire: Desafio     | https://7daysofcode.io/matricula/html-css-linkedin
+
+## Detalhes do projeto
+
+Projeto feito como desafio do 7DaysOfCode de HTML e CSS, da Alura.
+
+Neste projeto foi possível treinar conceitos como:
+
+- Flexbox CSS
+- Posicionamento de elementos
+- Variáveis CSS
+
 <h3><a href="https://www.figma.com/file/YNrQbgrdCBM7tDd6CfpBmm/7days---HTML-e-CSS-(Linkedin)?type=design&node-id=0%3A1&mode=dev">Figma completo do projeto</a>
+
+## Storyline do desafio
 
 <h3>✅ Day 1 - sessão de perfil ---
 <p>Essa seção contém a imagem de capa, a foto de perfil, nome, título, informações de contato, informações da carreira e, no final da seção, botões de ação. 
