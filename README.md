@@ -11,6 +11,9 @@
 | :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://kazzenbs.github.io/mylinkedin---7Daysofcode/
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css-linkedin
+| 🕔 Status     | Completo ✅
+
+![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/cdf6aeef-ce59-4076-ba84-ce24f36c285f) ![image](https://github.com/KazzenBS/Optimustech---7daysOfCode-HTML-CSS/assets/150951409/385912b5-4554-47fa-a52a-4be026e21c8b)
 
 ## Detalhes do projeto
 
